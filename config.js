@@ -23,9 +23,9 @@ const CONFIG = {
     questions: {
         first: {
             text: "Ji dadaa duytai yu? hohoh",                                    // First interaction
-            yesBtn: "DIIIINNNN",                                             // Text for "Yes" button
+            yesBtn: "DUYTAI",                                             // Text for "Yes" button
             noBtn: "ujua",                                               // Text for "No" button
-            secretAnswer: "Duytai bishaa, BI BVYY HAIYTAI! ❤️"           // Secret hover message
+            secretAnswer: "DUYTAI BISHAA, BI BVYY HAIYTAI! ❤️"           // Secret hover message
         },
         second: {
             text: "Dadaa hey ih haiytai we? hihihi",                          // For the love meter
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "dayaagiih ❤️"                                         // Text for the next button
         },
         third: {
-            text: "adiin VAYENTINE boymooy ainuu 🌹", // The big question!
+            text: "Dadiin VAYENTINE boymooy ainuu 🌹", // The big question!
             yesBtn: "DEGEYYY!",                                             // Text for "Yes" button
             noBtn: "ujua"                                                 // Text for "No" button
         }
@@ -43,14 +43,14 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOAAA Dadaa iim ih haiytaimuu?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Tengriin hyzgaar luu! 🚀💝",              // Shows when they go past 1000%
-        normal: "Hamtdaa! 🥰"                           // Shows when they go past 100%
+        high: "Tengriin hyzgaar luuh hamtdaa! 🚀💝",              // Shows when they go past 1000%
+        normal: "Dunduu ih! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "WOOOAAA, MAMAY GOY WEEE, URAAAA! 🎉💝💖💝💓",
-        message: "DUNDU <3 DUNDUU <3 DUNDUU <3 HAIYTAI JVVV",
+        title: "WOOOAAA, MAMAY GOY HEYEG WEEE, hihih! 🎉💝💖💝💓",
+        message: "DUNDU <3 DUNDUU <3, HAIYTAI JVVV",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
