@@ -23,7 +23,7 @@ const CONFIG = {
     questions: {
         first: {
             text: "Ji dadaa duytai yu? hohoh",                                    // First interaction
-            yesBtn: "DEGEYYYY",                                             // Text for "Yes" button
+            yesBtn: "DIIIINNNN",                                             // Text for "Yes" button
             noBtn: "ujua",                                               // Text for "No" button
             secretAnswer: "Duytai bishaa, BI BVYY HAIYTAI! ❤️"           // Secret hover message
         },
