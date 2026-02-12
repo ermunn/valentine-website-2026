@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "Dadaa hey ih haiytai we? hihihi",                          // For the love meter
-            startText: "Iim ih!",                                   // Text before the percentage
+            startText: "IIM IH!",                                   // Text before the percentage
             nextBtn: "dayaagiih ❤️"                                         // Text for the next button
         },
         third: {
@@ -43,7 +43,7 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOAAA Dadaa iim ih haiytaimuu?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Tengriin hyzgaar luuh hamtdaa! 🚀💝",              // Shows when they go past 1000%
+        high: "MAIMAY IH HAIYTAIIII! 🚀💝",              // Shows when they go past 1000%
         normal: "Dunduu ih! 🥰"                           // Shows when they go past 100%
     },
 
